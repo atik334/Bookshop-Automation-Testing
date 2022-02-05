@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-05T19:37:00 BDT" name="Default suite" finished-at="2022-02-05T19:38:52 BDT" duration-ms="112327">
+    <groups>
+    </groups>
+    <test started-at="2022-02-05T19:37:00 BDT" name="Default test" finished-at="2022-02-05T19:38:52 BDT" duration-ms="112327">
+      <class name="Test_Cases.Buy_A_Book">
+        <test-method is-config="true" signature="SetDriver()[pri:0, instance:Test_Cases.Buy_A_Book@20ca951f]" started-at="2022-02-05T19:36:56 BDT" name="SetDriver" finished-at="2022-02-05T19:37:00 BDT" duration-ms="3129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetDriver -->
+        <test-method signature="buyBook()[pri:0, instance:Test_Cases.Buy_A_Book@20ca951f]" started-at="2022-02-05T19:37:00 BDT" name="buyBook" finished-at="2022-02-05T19:38:52 BDT" duration-ms="112067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyBook -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Test_Cases.Buy_A_Book@20ca951f]" started-at="2022-02-05T19:38:52 BDT" name="close" finished-at="2022-02-05T19:38:52 BDT" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Test_Cases.Buy_A_Book -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
